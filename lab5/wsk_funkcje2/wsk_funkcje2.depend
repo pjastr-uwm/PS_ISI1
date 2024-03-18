@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710758820 source:c:\users\local\documents\github\ps_isi1\lab5\wsk_funkcje2\main.c
+	<stdio.h>
+	<stdlib.h>
+

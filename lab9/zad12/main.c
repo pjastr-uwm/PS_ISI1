@@ -29,9 +29,9 @@ int main()
     printf("%s\n", n2);
     rmDigits(n2);
     printf("%s\n", n2);
-    char n3[] = "53465654";
+    char n3[] = "534";
     printf("%s\n", n3);
     rmDigits(n3);
-    printf("%s.\n", n3);
+    printf("%s\n", n3);
     return 0;
 }

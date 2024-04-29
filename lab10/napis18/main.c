@@ -14,7 +14,7 @@ char* copyEveryThird(char *napis){
     int size = n/3 + (n%3>0 ? 1 : 0) + 1;
     char * wsk = malloc(size * sizeof(char));
     int i=0,j=0;
-    while(napis[i] !=0 && i<n){
+    while(napis[i] !=0 && i< n){
         wsk[j]= napis[i];
         j++;
         i+=3;

@@ -29,7 +29,7 @@ int main()
     printf("%s\n", n2);
     rmDigits(n2);
     printf("%s\n", n2);
-    char n3[] = "534";
+    char n3[] = "6768";
     printf("%s\n", n3);
     rmDigits(n3);
     printf("%s\n", n3);
